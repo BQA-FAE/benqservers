@@ -1,31 +1,50 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: shelwong
+repo: benqservers 
+user-agent: shelwong
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: BenQ AMS
+    url: https://ams.benq.com/#/
+  - name: BenQ IAM
+    url: https://iam.benq.com/
+  - name: BenQ DMS
+    url: https://dms.benq.com/#/
+    icon: https://dms.benq.com/client/dms_logo.svg    
+  - name: BenQ X-Sign Broadcast
+    url: https://x-signbroadcast.benq.com/
+  - name: BenQ Service Portal
+    url: https://service-portal.benq.com/login
+  - name: SheldonTest
+    url: https://shelwong.github.io/MyWebsite/
 
+assignees: 
+  - shelwong
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  favicon: https://raw.githubusercontent.com/shelwong/benqservers/master/assets/favicon.ico
+  
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/shelwong/benqservers/master/assets/benq.css
+  
+  baseUrl: /benqservers
+  logoUrl: https://raw.githubusercontent.com/shelwong/benqservers/master/assets/BenQEducationLogoSmall.png
+  name: BenQ Servers North America
+  introTitle: "**BenQ** North America"
+  introMessage: See the status of the BenQ servers in North America
+  
   navbar:
     - title: Status
       href: /
+    - title: Support Ticket
+      href: https://www.benq.com/en-us/support/contact-us.html
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: TestSite
+      href: https://shelwong.github.io/MyWebsite/index.html
+  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
