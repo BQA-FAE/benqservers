@@ -28,11 +28,10 @@ status-website:
   baseUrl: /benqservers
 
   #themeUrl: https://cdn.statically.io/gh/BQA-FAE/benqservers/cd8af7b3/assets/benq.css
-  #theme: light
   links:
     - rel: stylesheet
-      href: https://cdn.statically.io/gh/BQA-FAE/benqservers/a9893e77/assets/benqFull.css
-  logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQEducationLogoSmall.png
+      href: https://cdn.statically.io/gh/BQA-FAE/benqservers/bdfe2691/assets/benqFull.css
+  #logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQEducationLogoSmall.png
   name: BenQ Servers North America
   introTitle: "**BenQ** North America"
   introMessage: See the status of the BenQ servers in North America
