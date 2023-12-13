@@ -181,10 +181,11 @@ nav {
   background-color: var(--nav-background-color);
   color: #ffffff;
   background: no-repeat center url("https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQ_Header.png");
-  background-size: cover;
+  background-size: 100%;
 }
 
 li a:hover {
+  font-weight: bold;
   background-color: #ffffff;
   color: #00707a;
   transition: .5s;
