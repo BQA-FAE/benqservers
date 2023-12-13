@@ -178,9 +178,15 @@ article.up {
 
 nav {
   border-bottom-color: var(--nav-border-bottom-color);
-  /*background: var(--nav-background-color);*/
+  background: var(--nav-background-color);
   color: #ffffff;
-  background: no-repeat center url("https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQHeader.png");
+  background: no-repeat center url("https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQ_Header.png");
+}
+
+li a:hover {
+  background-color: #ffffff;
+  color: #00707a;
+  transition: .5s;
 }
 
 [aria-current] {
