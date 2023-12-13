@@ -30,19 +30,19 @@ status-website:
   #themeUrl: https://cdn.statically.io/gh/BQA-FAE/benqservers/cd8af7b3/assets/benq.css
   links:
     - rel: stylesheet
-      href: https://cdn.statically.io/gh/BQA-FAE/benqservers/dab8da71/assets/benqFull.css
+      href: https://cdn.statically.io/gh/BQA-FAE/benqservers/04456246/assets/benq.css
   logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQLogo.png
-  name: BenQ Servers North America
+  name: Servers North America
   introTitle: "**BenQ** North America"
   introMessage: See the status of the BenQ servers in North America
   
   navbar:
     - title: Status
-      href: /
-    - title: Support Ticket
+      href: https://bqa-fae.github.io/benqservers/
+    - title: Submit Ticket
       href: https://www.benq.com/en-us/support/contact-us.html
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: BenQ Home
+      href: https://www.benq.com/en-us/education.html
     - title: TestSite
       href: https://shelwong.github.io/MyWebsite/index.html
   
