@@ -27,7 +27,7 @@ status-website:
   
   links:
     - rel: stylesheet
-      href: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/benq.css
+      href: https://github.com/BQA-FAE/benqservers/blob/master/assets/benq.css
   
   baseUrl: /benqservers
   logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQEducationLogoSmall.png
