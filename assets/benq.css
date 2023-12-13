@@ -1,5 +1,6 @@
 :root {
-  --body-background-color: #00707a;
+  /*--body-background-color: #00707a;*/
+  --bg-image: url('https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQHeader.png');
   --body-text-color: #ffffff;
   --card-background-color: #02b5ad;
   --nav-background-color: #02b5ad;
