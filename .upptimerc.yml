@@ -14,151 +14,184 @@ sites:
     url: https://x-signbroadcast.benq.com/
   - name: BenQ Service Portal
     url: https://service-portal.benq.com/
-  - name: https://ezwriteupload-eu.s3.eu-central-1.amazonaws.com/
+  - name: EZWrite IoT
+    url: https://ezwriteupload-eu.s3.eu-central-1.amazonaws.com/
     check: tcp-ping
     port: 443
-    - name: https://cognito-identity.eu-central-1.amazonaws.com/
+  - name: EZWrite Cognito
+    url: https://cognito-identity.eu-central-1.amazonaws.com/
     check: tcp-ping
     port: 443
-    - name: https://sns.eu-central-1.amazonaws.com/
+  - name: EZWrite S3
+    url: https://benq-ezwrite-eu.s3.eu-central-1.amazonaws.com
     check: tcp-ping
     port: 443
-    - name: https://sns.eu-central-1.amazonaws.com
+  - name: EZWrite SNS
+    url: https://sns.eu-central-1.amazonaws.com
     check: tcp-ping
     port: 443
-    - name: https://sqs.eu-central-1.amazonaws.com
+  - name: EZWrite SQS
+    url: https://sqs.eu-central-1.amazonaws.com
     check: tcp-ping
     port: 443
-    - name: 
+  - name: EZWrite Portal
+    url: https://ezwrite6.benq.com
     check: tcp-ping
     port: 443
-    - name: https://ezwrite6.benq.com
+  - name: EZW6 API
+    url: https://ezwrite6-api.benq.com
     check: tcp-ping
     port: 443
-    - name: 
+  - name: EZ5 API
+    url: https://ezwrite.benq.com
     check: tcp-ping
     port: 443
-    - name: https://ezwrite6-api.benq.com
+  - name: Matomo
+    url: https://matomo.benq.com
     check: tcp-ping
     port: 443
-    - name: https://ezwrite.benq.com
+  - name: EZ5/EZ6 apk OTA URL
+    url: https://d2fqxlpnusiysx.cloudfront.net
     check: tcp-ping
     port: 443
-    - name: https://accounts.google.com
+  - name: EZ5 QR Code Sharin
+    url: https://ezwriteupload.s3-ap-northeast-1.amazonaws.com
     check: tcp-ping
     port: 443
-    - name: https://www.googleapis.com
+  - name: EZ5 Collab Server
+    url: https://ezwrite-relay.benq.com/
     check: tcp-ping
     port: 443
-    - name: https://classroom.googleapis.com
-    check: tcp-ping
-    port: 443
-    - name: https://classroom.googleapis.com
-    check: tcp-ping
-    port: 443
-    - name: https://matomo.benq.com
-    check: tcp-ping
-    port: 443
-    - name: https://d2fqxlpnusiysx.cloudfront.net
-    check: tcp-ping
-    port: 443
-    - name: https://ezwriteupload.s3-ap-northeast-1.amazonaws.com
-    check: tcp-ping
-    port: 443
-    - name: https://ezwrite-relay.benq.com/
-    check: tcp-ping
-    port: 443
-    - name: pubnub.com
-    check: tcp-ping
-    port: 443
-    - name: pndsn.com
-    check: tcp-ping
-    port: 443
-    - name: http://qspublic.s3.amazonaws.com
+  - name: EZWrite APK Download Server
+    url: http://qspublic.s3.amazonaws.com
     check: tcp-ping
     port: 80
-    - name: http://qspublic.s3.ap-southeast-1.amazonaws.com
+  - name: EZWrite APK Download Server 2
+    url: http://qspublic.s3.ap-southeast-1.amazonaws.com
     check: tcp-ping
     port: 80
-    - name: https://qspublic.s3-ap-southeast-1.amazonaws.com/
+  - name: EZWrite OTA File Server
+    url: https://qspublic.s3-ap-southeast-1.amazonaws.com/
     check: tcp-ping
     port: 443
-    - name: http://vod.benq.com/tvservice_api/api/response.php
+  - name: BenQ FW API Server
+    url: http://vod.benq.com/tvservice_api/api/response.php
     check: tcp-ping
     port: 80
-    - name: https://d3bx1fc1zkxy8q.cloudfront.net
+  - name: FW OTA Image Server
+    url: https://d3bx1fc1zkxy8q.cloudfront.net
     check: tcp-ping
     port: 443
-    - name: https://donglefw.s3-ap-northeast-1.amazonaws.com/
+  - name: FW OTA Update .XML
+    url: https://donglefw.s3-ap-northeast-1.amazonaws.com/
     check: tcp-ping
     port: 443
-    - name: https://qotaapi.benq.com/api/v2/
+  - name: FW QOTA API Server
+    url: https://qotaapi.benq.com/api/v2/
     check: tcp-ping
     port: 443
-    - name: https://vod.benq.com
+  - name: FW Self-update API Server
+    url: https://vod.benq.com
     check: tcp-ping
     port: 443
-    - name: https://benqqota.firebaseio.com
+  - name: Firebase API Server
+    url: https://benqqota.firebaseio.com
     check: tcp-ping
     port: 443
-    - name: https://d1m7bten765ify.cloudfront.net
+  - name: OTA Pkg and Release note
+    url: https://d1m7bten765ify.cloudfront.net
     check: tcp-ping
     port: 443
-    - name: https://ams.benq.com/api/*
+  - name: AMS API
+    url: https://ams.benq.com/api/*
     check: tcp-ping
     port: 443
-    - name: https://api.dropboxapi.com
+  - name: Dropbox API
+    url: https://api.dropboxapi.com
     check: tcp-ping
     port: 443
-    - name: http://h1.ee-share.com/+B19B2:B38
+  - name: Register InstaQShare
+    url: http://h1.ee-share.com/+B19B2:B38
     check: tcp-ping
     port: 443
-    - name: http://vod.benq.com/suggest/public/
+  - name: Load BenQ Suggest
+    url: http://vod.benq.com/suggest/public/
     check: tcp-ping
     port: 80
-    - name: https://smartdms.benq.com/ESApi/public
+  - name: Easy WW API Server
+    url: https://smartdms.benq.com/ESApi/public
     check: tcp-ping
     port: 443
-    - name: http://relaysmartdms.benq.com:443
+  - name: Easy WW Relay Server
+    url: http://relaysmartdms.benq.com:443
     check: tcp-ping
     port: 443
-    - name: https://smartdms.benq.com.cn/ESApi/public
+  - name: Easy CN API Server
+    url: https://smartdms.benq.com.cn/ESApi/public
     check: tcp-ping
     port: 443
-    - name: http://relaysmartdms.benq.com.cn:443
+  - name: Easy CN Relay Server
+    url: http://relaysmartdms.benq.com.cn:443
     check: tcp-ping
     port: 443
-    - name: https://Relay.benq.com
+  - name: WW X-sign Cloud Server (maintaining connection)
+    url: https://Relay.benq.com
     check: tcp-ping
     port: 443
-    - name: https://Apiservice.benq.com
+  - name: WW X-sign Cloud Server (API Service)
+    url: https://Apiservice.benq.com
     check: tcp-ping
     port: 443
-    - name: https://X-Sign.benq.com
+  - name: WW X-sign Cloud Server (Manager connection)
+    url: https://X-Sign.benq.com
     check: tcp-ping
     port: 443
-    - name: https://logapiservice.benq.com
+  - name: WW X-sign Cloud Server (Player Logs)
+    url: https://logapiservice.benq.com
     check: tcp-ping
     port: 443
-    - name: https://xsignbdp-eu.s3.eu-central-1.amazonaws.com
+  - name: WW X-sign Cloud Server (BDP/Archive)
+    url: https://xsignbdp-eu.s3.eu-central-1.amazonaws.com
     check: tcp-ping
     port: 443
-    - name: https://sa900-api.elasticbeanstalk.com
+  - name: WW X-sign Cloud Server (Get Weather)
+    url: https://sa900-api.elasticbeanstalk.com
     check: tcp-ping
     port: 443
-    - name: https://api.openweathermap.org
+  - name: Openweather
+    url: https://api.openweathermap.org
     check: tcp-ping
     port: 443
-    - name: https://Relay.benq.com.cn
+  - name: Get Device JSON (DMS Cloud)
+    url: http://staging2.benq.com
     check: tcp-ping
     port: 443
-    - name: https://Apiservice.benq.com.cn
+  - name: DMS MQTT Connection 
+    url: https://dms-relay.benq.com
     check: tcp-ping
     port: 443
-    - name: https://X-Sign.benq.com.cn
+  - name: MDA Command Data (DMS Cloud & Local) 1
+    url: https://cmota.s3.amazonaws.com
     check: tcp-ping
     port: 443
-    - name: https://logapiservice.benq.com.cn
+  - name: MDA Command Data (DMS Cloud & Local) 2
+    url: https://cmota.s3.ap-northeast-1.amazonaws.com
+    check: tcp-ping
+    port: 443
+  - name: Verify/Release Key (DMS Local)
+    url: https://dsdownload.benq.com
+    check: tcp-ping
+    port: 443
+  - name: AWS IoT Service for MQTT (DMS Cloud)
+    url: apexd90h2t5wg-ats.iot.eu-central-1.amazonaws.com 
+    check: tcp-ping
+    port: 443
+  - name: AWS IoT Service for MQTT (DMS Local)
+    url: apexd90h2t5wg-ats.iot.eu-central-1.amazonaws.com 
+    check: tcp-ping
+    port: 443
+  - name: DMS Firewall
+    url: https://benq-dms-eu.s3.eu-central-1.amazonaws.com
     check: tcp-ping
     port: 443
 
