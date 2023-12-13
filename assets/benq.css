@@ -178,7 +178,8 @@ article.up {
 
 nav {
   border-bottom-color: var(--nav-border-bottom-color);
-  background-color: var(--nav-background-color);
+  /*background-color: var(--nav-background-color);*/
+  background-color: #00707a;
   color: #ffffff;
 }
 
