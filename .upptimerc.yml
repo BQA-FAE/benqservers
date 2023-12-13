@@ -31,7 +31,7 @@ status-website:
     - rel: stylesheet
       href: https://cdn.statically.io/gh/BQA-FAE/benqservers/f0196815/assets/benq.css
       
-  logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BQE_Logo.png
+  logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/bqeLogo.png
   name: Servers-North America
   introTitle: "**BenQ** North America Servers"
   introMessage: See the status of the BenQ services in North America
