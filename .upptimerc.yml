@@ -30,10 +30,11 @@ status-website:
   links:
     - rel: stylesheet
       href: https://cdn.statically.io/gh/BQA-FAE/benqservers/f0196815/assets/benq.css
-  logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQLogo.png
-  name: Servers North America
-  introTitle: "**BenQ** North America"
-  introMessage: See the status of the BenQ servers in North America
+      
+  logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQEducationLogoSmall.png
+  name: Servers-North America
+  introTitle: "**BenQ** North America Servers"
+  introMessage: See the status of the BenQ services in North America
   
   navbar:
     - title: Status
