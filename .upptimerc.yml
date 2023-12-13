@@ -26,8 +26,9 @@ status-website:
   favicon: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/favicon.ico
   
   baseUrl: /benqservers
-  theme: dark
-  #themeUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/darkTEST.css
+
+  themeUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/darkTEST.css
+  theme: darkTEST
   logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQEducationLogoSmall.png
   name: BenQ Servers North America
   introTitle: "**BenQ** North America"
