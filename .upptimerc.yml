@@ -25,9 +25,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   favicon: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/favicon.ico
   
-  themeUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/darkTEST.css
-  
   baseUrl: /benqservers
+  theme: dark
+  #themeUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/darkTEST.css
   logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQEducationLogoSmall.png
   name: BenQ Servers North America
   introTitle: "**BenQ** North America"
