@@ -1,7 +1,7 @@
 # Change these first
-owner: shelwong
+owner: BQA-FAE
 repo: benqservers 
-user-agent: shelwong
+user-agent: BQA-FAE
 sites:
   - name: BenQ AMS
     url: https://ams.benq.com/#/
@@ -23,14 +23,14 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  favicon: https://raw.githubusercontent.com/shelwong/benqservers/master/assets/favicon.ico
+  favicon: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/favicon.ico
   
   links:
     - rel: stylesheet
-      href: https://raw.githubusercontent.com/shelwong/benqservers/master/assets/benq.css
+      href: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/benq.css
   
   baseUrl: /benqservers
-  logoUrl: https://raw.githubusercontent.com/shelwong/benqservers/master/assets/BenQEducationLogoSmall.png
+  logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQEducationLogoSmall.png
   name: BenQ Servers North America
   introTitle: "**BenQ** North America"
   introMessage: See the status of the BenQ servers in North America
