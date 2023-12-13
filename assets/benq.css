@@ -183,6 +183,12 @@ nav {
   color: #ffffff;
 }
 
+li a:active {
+  font-weight:bold;
+  background-color:#ffffff;
+  color: #00707a;
+}
+
 li a:hover {
   font-weight: bold;
   background-color: #ffffff;
