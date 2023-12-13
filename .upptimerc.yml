@@ -32,8 +32,8 @@ status-website:
       href: https://cdn.statically.io/gh/BQA-FAE/benqservers/f0196815/assets/benq.css
       
   logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/bqeLogo.png
-  name: Servers-NA
-  introTitle: "**BenQ** North America Servers"
+  name: Servers Status
+  introTitle: "**BenQ Education** Servers"
   introMessage: See the status of the BenQ services in North America
   
   navbar:
