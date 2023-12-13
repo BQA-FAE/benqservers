@@ -27,7 +27,7 @@ status-website:
   
   baseUrl: /benqservers
 
-  themeUrl: https://cdn.statically.io/gh/BQA-FAE/benqservers/f253373f/assets/benq.css
+  themeUrl: https://cdn.statically.io/gh/BQA-FAE/benqservers/e0dd535d/assets/benq.css
   #theme: darkTEST
   logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQEducationLogoSmall.png
   name: BenQ Servers North America
