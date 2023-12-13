@@ -31,7 +31,7 @@ status-website:
   #theme: light
   links:
     - rel: stylesheet
-      href: https://cdn.statically.io/gh/BQA-FAE/benqservers/77ad6221/assets/benqFull.css
+      href: https://cdn.statically.io/gh/BQA-FAE/benqservers/a9893e77/assets/benqFull.css
   logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQEducationLogoSmall.png
   name: BenQ Servers North America
   introTitle: "**BenQ** North America"
