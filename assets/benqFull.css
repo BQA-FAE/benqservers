@@ -180,8 +180,6 @@ nav {
   border-bottom-color: var(--nav-border-bottom-color);
   background-color: var(--nav-background-color);
   color: #ffffff;
-  background: no-repeat center url("https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/BenQ_Header.png");
-  background-size: 100%;
 }
 
 li a:hover {
