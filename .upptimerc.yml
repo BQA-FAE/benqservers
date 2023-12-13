@@ -14,8 +14,6 @@ sites:
     url: https://x-signbroadcast.benq.com/
   - name: BenQ Service Portal
     url: https://service-portal.benq.com/login
-  - name: SheldonTest
-    url: https://shelwong.github.io/MyWebsite/
 
 assignees: 
   - shelwong
@@ -29,7 +27,7 @@ status-website:
 
   links:
     - rel: stylesheet
-      href: https://cdn.statically.io/gh/BQA-FAE/benqservers/f0196815/assets/benq.css
+      href: https://cdn.statically.io/gh/BQA-FAE/benqservers/09f7a419/assets/benq.css
       
   logoUrl: https://raw.githubusercontent.com/BQA-FAE/benqservers/master/assets/bqeLogo.png
   name: Servers Status
@@ -42,10 +40,7 @@ status-website:
     - title: Submit Ticket
       href: https://www.benq.com/en-us/support/contact-us.html
     - title: BenQ Home
-      href: https://www.benq.com/en-us/education.html
-    - title: TestSite
-      href: https://shelwong.github.io/MyWebsite/index.html
-  
+      href: https://www.benq.com/en-us/education.html  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
