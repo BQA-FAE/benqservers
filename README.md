@@ -24,7 +24,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://shelwong.github.io/benqservers)
+[**Visit our status website →**](https://bqa-fae.github.io/benqservers)
 
 ## 📄 License
 
