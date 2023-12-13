@@ -13,7 +13,155 @@ sites:
   - name: BenQ X-Sign Broadcast
     url: https://x-signbroadcast.benq.com/
   - name: BenQ Service Portal
-    url: https://service-portal.benq.com/login
+    url: https://service-portal.benq.com/
+  - name: https://ezwriteupload-eu.s3.eu-central-1.amazonaws.com/
+    check: tcp-ping
+    port: 443
+    - name: https://cognito-identity.eu-central-1.amazonaws.com/
+    check: tcp-ping
+    port: 443
+    - name: https://sns.eu-central-1.amazonaws.com/
+    check: tcp-ping
+    port: 443
+    - name: https://sns.eu-central-1.amazonaws.com
+    check: tcp-ping
+    port: 443
+    - name: https://sqs.eu-central-1.amazonaws.com
+    check: tcp-ping
+    port: 443
+    - name: 
+    check: tcp-ping
+    port: 443
+    - name: https://ezwrite6.benq.com
+    check: tcp-ping
+    port: 443
+    - name: 
+    check: tcp-ping
+    port: 443
+    - name: https://ezwrite6-api.benq.com
+    check: tcp-ping
+    port: 443
+    - name: https://ezwrite.benq.com
+    check: tcp-ping
+    port: 443
+    - name: https://accounts.google.com
+    check: tcp-ping
+    port: 443
+    - name: https://www.googleapis.com
+    check: tcp-ping
+    port: 443
+    - name: https://classroom.googleapis.com
+    check: tcp-ping
+    port: 443
+    - name: https://classroom.googleapis.com
+    check: tcp-ping
+    port: 443
+    - name: https://matomo.benq.com
+    check: tcp-ping
+    port: 443
+    - name: https://d2fqxlpnusiysx.cloudfront.net
+    check: tcp-ping
+    port: 443
+    - name: https://ezwriteupload.s3-ap-northeast-1.amazonaws.com
+    check: tcp-ping
+    port: 443
+    - name: https://ezwrite-relay.benq.com/
+    check: tcp-ping
+    port: 443
+    - name: pubnub.com
+    check: tcp-ping
+    port: 443
+    - name: pndsn.com
+    check: tcp-ping
+    port: 443
+    - name: http://qspublic.s3.amazonaws.com
+    check: tcp-ping
+    port: 80
+    - name: http://qspublic.s3.ap-southeast-1.amazonaws.com
+    check: tcp-ping
+    port: 80
+    - name: https://qspublic.s3-ap-southeast-1.amazonaws.com/
+    check: tcp-ping
+    port: 443
+    - name: http://vod.benq.com/tvservice_api/api/response.php
+    check: tcp-ping
+    port: 80
+    - name: https://d3bx1fc1zkxy8q.cloudfront.net
+    check: tcp-ping
+    port: 443
+    - name: https://donglefw.s3-ap-northeast-1.amazonaws.com/
+    check: tcp-ping
+    port: 443
+    - name: https://qotaapi.benq.com/api/v2/
+    check: tcp-ping
+    port: 443
+    - name: https://vod.benq.com
+    check: tcp-ping
+    port: 443
+    - name: https://benqqota.firebaseio.com
+    check: tcp-ping
+    port: 443
+    - name: https://d1m7bten765ify.cloudfront.net
+    check: tcp-ping
+    port: 443
+    - name: https://ams.benq.com/api/*
+    check: tcp-ping
+    port: 443
+    - name: https://api.dropboxapi.com
+    check: tcp-ping
+    port: 443
+    - name: http://h1.ee-share.com/+B19B2:B38
+    check: tcp-ping
+    port: 443
+    - name: http://vod.benq.com/suggest/public/
+    check: tcp-ping
+    port: 80
+    - name: https://smartdms.benq.com/ESApi/public
+    check: tcp-ping
+    port: 443
+    - name: http://relaysmartdms.benq.com:443
+    check: tcp-ping
+    port: 443
+    - name: https://smartdms.benq.com.cn/ESApi/public
+    check: tcp-ping
+    port: 443
+    - name: http://relaysmartdms.benq.com.cn:443
+    check: tcp-ping
+    port: 443
+    - name: https://Relay.benq.com
+    check: tcp-ping
+    port: 443
+    - name: https://Apiservice.benq.com
+    check: tcp-ping
+    port: 443
+    - name: https://X-Sign.benq.com
+    check: tcp-ping
+    port: 443
+    - name: https://logapiservice.benq.com
+    check: tcp-ping
+    port: 443
+    - name: https://xsignbdp-eu.s3.eu-central-1.amazonaws.com
+    check: tcp-ping
+    port: 443
+    - name: https://sa900-api.elasticbeanstalk.com
+    check: tcp-ping
+    port: 443
+    - name: https://api.openweathermap.org
+    check: tcp-ping
+    port: 443
+    - name: https://Relay.benq.com.cn
+    check: tcp-ping
+    port: 443
+    - name: https://Apiservice.benq.com.cn
+    check: tcp-ping
+    port: 443
+    - name: https://X-Sign.benq.com.cn
+    check: tcp-ping
+    port: 443
+    - name: https://logapiservice.benq.com.cn
+    check: tcp-ping
+    port: 443
+
 
 assignees: 
   - shelwong
