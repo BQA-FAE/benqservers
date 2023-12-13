@@ -18,7 +18,7 @@ h6 {
 }
 
 h1 {
-  font-size: 7em;
+  font-size: 2em;
 }
 
 a {
@@ -178,7 +178,9 @@ article.up {
 
 nav {
   border-bottom-color: var(--nav-border-bottom-color);
-  background: var(--nav-background-color);
+  /*background: var(--nav-background-color);*/
+  color: #ffffff;
+  background-image: url("https://github.com/BQA-FAE/benqservers/blob/master/assets/BenQHeader.png");
 }
 
 [aria-current] {
