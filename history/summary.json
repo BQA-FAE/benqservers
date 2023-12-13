@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ezwriteupload-eu.s3.eu-central-1.amazonaws.com.ico",
     "slug": "ez-write-io-t",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cognito-identity.eu-central-1.amazonaws.com.ico",
     "slug": "ez-write-cognito",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 3
+      "2023-12-13": 4
     }
   },
   {
@@ -135,18 +135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/benq-ezwrite-eu.s3.eu-central-1.amazonaws.com.ico",
     "slug": "ez-write-s3",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 3
+      "2023-12-13": 4
     }
   },
   {
@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 3
+      "2023-12-13": 4
     }
   },
   {
@@ -175,18 +175,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sqs.eu-central-1.amazonaws.com.ico",
     "slug": "ez-write-sqs",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 3
+      "2023-12-13": 4
     }
   },
   {
@@ -195,18 +195,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ezwrite6.benq.com.ico",
     "slug": "ez-write-portal",
     "status": "down",
-    "uptime": "0.24%",
-    "uptimeDay": "0.24%",
-    "uptimeWeek": "0.24%",
-    "uptimeMonth": "0.24%",
-    "uptimeYear": "0.24%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 3
+      "2023-12-13": 4
     }
   },
   {
@@ -226,7 +226,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 3
+      "2023-12-13": 4
     }
   },
   {
@@ -235,18 +235,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ezwrite.benq.com.ico",
     "slug": "ez-5-api",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 3
+      "2023-12-13": 4
     }
   },
   {
@@ -255,11 +255,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.benq.com.ico",
     "slug": "matomo",
     "status": "down",
-    "uptime": "0.40%",
-    "uptimeDay": "0.40%",
-    "uptimeWeek": "0.40%",
-    "uptimeMonth": "0.40%",
-    "uptimeYear": "0.40%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -275,11 +275,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/d2fqxlpnusiysx.cloudfront.net.ico",
     "slug": "ez-5-ez-6-apk-ota-url",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -295,11 +295,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ezwriteupload.s3-ap-northeast-1.amazonaws.com.ico",
     "slug": "ez-5-qr-code-sharin",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.25%",
+    "uptimeDay": "0.25%",
+    "uptimeWeek": "0.25%",
+    "uptimeMonth": "0.25%",
+    "uptimeYear": "0.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -315,11 +315,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ezwrite-relay.benq.com.ico",
     "slug": "ez-5-collab-server",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -375,11 +375,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qspublic.s3-ap-southeast-1.amazonaws.com.ico",
     "slug": "ez-write-ota-file-server",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -435,11 +435,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/donglefw.s3-ap-northeast-1.amazonaws.com.ico",
     "slug": "fw-ota-update-xml",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -546,7 +546,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 2
+      "2023-12-13": 3
     }
   },
   {
@@ -555,18 +555,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dropboxapi.com.ico",
     "slug": "dropbox-api",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 2
+      "2023-12-13": 3
     }
   },
   {
@@ -575,18 +575,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/h1.ee-share.com.ico",
     "slug": "register-insta-q-share",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 2
+      "2023-12-13": 3
     }
   },
   {
@@ -594,6 +594,26 @@
     "url": "http://vod.benq.com/suggest/public/",
     "icon": "https://icons.duckduckgo.com/ip3/vod.benq.com.ico",
     "slug": "load-ben-q-suggest",
+    "status": "down",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-13": 3
+    }
+  },
+  {
+    "name": "Easy WW API Server",
+    "url": "https://smartdms.benq.com/ESApi/public",
+    "icon": "https://icons.duckduckgo.com/ip3/smartdms.benq.com.ico",
+    "slug": "easy-ww-api-server",
     "status": "down",
     "uptime": "0.18%",
     "uptimeDay": "0.18%",
@@ -606,27 +626,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 2
-    }
-  },
-  {
-    "name": "Easy WW API Server",
-    "url": "https://smartdms.benq.com/ESApi/public",
-    "icon": "https://icons.duckduckgo.com/ip3/smartdms.benq.com.ico",
-    "slug": "easy-ww-api-server",
-    "status": "down",
-    "uptime": "0.20%",
-    "uptimeDay": "0.20%",
-    "uptimeWeek": "0.20%",
-    "uptimeMonth": "0.20%",
-    "uptimeYear": "0.20%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-12-13": 2
+      "2023-12-13": 3
     }
   },
   {
@@ -646,7 +646,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 2
+      "2023-12-13": 3
     }
   },
   {
@@ -666,7 +666,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 2
+      "2023-12-13": 3
     }
   },
   {
@@ -695,11 +695,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.benq.com.ico",
     "slug": "ww-x-sign-cloud-server-maintaining-connection",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -835,11 +835,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging2.benq.com.ico",
     "slug": "get-device-json-dms-cloud",
     "status": "down",
-    "uptime": "2.39%",
-    "uptimeDay": "2.39%",
-    "uptimeWeek": "2.39%",
-    "uptimeMonth": "2.39%",
-    "uptimeYear": "2.39%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -855,11 +855,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dms-relay.benq.com.ico",
     "slug": "dms-mqtt-connection",
     "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
+    "uptime": "0.44%",
+    "uptimeDay": "0.44%",
+    "uptimeWeek": "0.44%",
+    "uptimeMonth": "0.44%",
+    "uptimeYear": "0.44%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -875,11 +875,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmota.s3.amazonaws.com.ico",
     "slug": "mda-command-data-dms-cloud-and-local-1",
     "status": "down",
-    "uptime": "0.48%",
-    "uptimeDay": "0.48%",
-    "uptimeWeek": "0.48%",
-    "uptimeMonth": "0.48%",
-    "uptimeYear": "0.48%",
+    "uptime": "0.57%",
+    "uptimeDay": "0.57%",
+    "uptimeWeek": "0.57%",
+    "uptimeMonth": "0.57%",
+    "uptimeYear": "0.57%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -895,18 +895,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmota.s3.ap-northeast-1.amazonaws.com.ico",
     "slug": "mda-command-data-dms-cloud-and-local-2",
     "status": "down",
-    "uptime": "0.78%",
-    "uptimeDay": "0.78%",
-    "uptimeWeek": "0.78%",
-    "uptimeMonth": "0.78%",
-    "uptimeYear": "0.78%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 0
+      "2023-12-13": 1
     }
   },
   {
@@ -926,7 +926,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 0
+      "2023-12-13": 1
     }
   },
   {
@@ -982,7 +982,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 0
+      "2023-12-13": 1
     }
   }
 ]
