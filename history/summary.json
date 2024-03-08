@@ -4,19 +4,19 @@
     "url": "https://ams.benq.com/#/",
     "icon": "https://icons.duckduckgo.com/ip3/ams.benq.com.ico",
     "slug": "ben-q-ams",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 532,
-    "timeDay": 524,
-    "timeWeek": 520,
+    "timeDay": 516,
+    "timeWeek": 517,
     "timeMonth": 490,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2024-03-08": 0
+      "2024-03-08": 19
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://iam.benq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iam.benq.com.ico",
     "slug": "ben-q-iam",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 559,
-    "timeWeek": 618,
-    "timeMonth": 605,
-    "timeYear": 662,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 661,
+    "timeDay": 546,
+    "timeWeek": 607,
+    "timeMonth": 602,
+    "timeYear": 661,
     "dailyMinutesDown": {
-      "2024-03-08": 0
+      "2024-03-08": 19
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://dms.benq.com/#/",
     "icon": "https://dms.benq.com/client/dms_logo.svg",
     "slug": "ben-q-dms",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 467,
-    "timeDay": 484,
-    "timeWeek": 496,
-    "timeMonth": 458,
+    "timeDay": 469,
+    "timeWeek": 489,
+    "timeMonth": 457,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2024-03-08": 0
+      "2024-03-08": 19
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://x-signbroadcast.benq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/x-signbroadcast.benq.com.ico",
     "slug": "ben-q-x-sign-broadcast",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 610,
-    "timeDay": 556,
-    "timeWeek": 595,
-    "timeMonth": 580,
-    "timeYear": 610,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 608,
+    "timeDay": 532,
+    "timeWeek": 582,
+    "timeMonth": 576,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2024-03-08": 0
+      "2024-03-08": 19
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://service-portal.benq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/service-portal.benq.com.ico",
     "slug": "ben-q-service-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 639,
-    "timeDay": 505,
-    "timeWeek": 572,
-    "timeMonth": 580,
+    "timeDay": 512,
+    "timeWeek": 568,
+    "timeMonth": 578,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2024-03-08": 0
+      "2024-03-08": 19
     }
   }
 ]
