@@ -40,7 +40,16 @@ status-website:
     - title: Submit Ticket
       href: https://www.benq.com/en-us/support/contact-us.html
     - title: BenQ Home
-      href: https://www.benq.com/en-us/education.html  
+      href: https://www.benq.com/en-us/education.html
+
+  workflowSchedule:
+    graphs: "0 0 * * *"
+    responseTime: "0 23 * * *"
+    staticSite: "0 1 * * *"
+    summary: "0 0 * * *"
+    updateTemplate: "0 0 * * *"
+    updates: "0 3 * * *"
+    uptime: "*/2 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
