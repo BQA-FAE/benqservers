@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ams.benq.com.ico",
     "slug": "ben-q-ams",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 531,
     "timeDay": 468,
     "timeWeek": 505,
     "timeMonth": 486,
     "timeYear": 531,
-    "dailyMinutesDown": {
-      "2024-03-07": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BenQ IAM",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/iam.benq.com.ico",
     "slug": "ben-q-iam",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 663,
     "timeDay": 556,
     "timeWeek": 625,
     "timeMonth": 606,
     "timeYear": 663,
-    "dailyMinutesDown": {
-      "2024-03-07": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BenQ DMS",
@@ -45,19 +41,17 @@
     "icon": "https://dms.benq.com/client/dms_logo.svg",
     "slug": "ben-q-dms",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 466,
     "timeDay": 398,
     "timeWeek": 476,
     "timeMonth": 451,
     "timeYear": 466,
-    "dailyMinutesDown": {
-      "2024-03-07": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BenQ X-Sign Broadcast",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/x-signbroadcast.benq.com.ico",
     "slug": "ben-q-x-sign-broadcast",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 610,
     "timeDay": 572,
     "timeWeek": 604,
     "timeMonth": 582,
     "timeYear": 610,
-    "dailyMinutesDown": {
-      "2024-03-07": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BenQ Service Portal",
@@ -85,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/service-portal.benq.com.ico",
     "slug": "ben-q-service-portal",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 641,
     "timeDay": 503,
     "timeWeek": 580,
     "timeMonth": 582,
     "timeYear": 641,
-    "dailyMinutesDown": {
-      "2024-03-07": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
