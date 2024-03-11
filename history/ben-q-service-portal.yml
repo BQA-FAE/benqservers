@@ -1,7 +1,7 @@
 url: https://service-portal.benq.com/
-status: down
-code: 500
-responseTime: 419
-lastUpdated: 2024-03-11T00:54:50.394Z
+status: up
+code: 200
+responseTime: 467
+lastUpdated: 2024-03-11T01:40:29.676Z
 startTime: 2023-12-13T02:15:01.929Z
 generator: Upptime <https://github.com/upptime/upptime>
